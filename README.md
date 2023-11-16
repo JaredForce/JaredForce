@@ -3,7 +3,7 @@
 ### Hi 👋
 I am a student at the faculty of economics and administrative sciences in Turkey. I'm struggling with coding when I'm bored, i enjoy playing games and writing novels
 
-- 🔨 I'm currently doing code tests on behalf of [Bunny CSGO](https://www.bunnycsgo.com).
+- 🔨 I'm currently developing a bot for Discord
 - 📚 I'm currently learning about cybersecurity.
 - 📫 How to reach me: [@JaredForce][twitter]
 
